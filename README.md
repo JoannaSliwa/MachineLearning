@@ -7,4 +7,4 @@ A project comparing three different models: Lasso regression, Decision Tree and 
 
 **Image recogniton**
 
-The programme creates an image recognition tool and presents three top predictions and the most 'importatnt' parts of the image for analysis. Tesyed for different images.
+The programme creates an image recognition tool and presents three top predictions and the most 'importatnt' parts of the image for analysis. Tested for different images.
